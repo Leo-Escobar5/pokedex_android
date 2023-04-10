@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_main_image_button">IMAGE</string>
+    <string name="activity_main_stats_button">STATS</string>
+    <string name="fragment_stats_hp">HP</string>
+    <string name="fragment_stats_attack">ATTACK</string>
+    <string name="fragment_stats_defense">DEFENSE</string>
+    <string name="fragment_stats_speed">SPEED</string>
+</resources>

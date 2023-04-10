@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokedex-fragments.iml" filepath="$PROJECT_DIR$/.idea/modules/pokedex-fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pokedex-fragments.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
